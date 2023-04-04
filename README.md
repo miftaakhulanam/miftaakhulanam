@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miftaakhulanam&" alt="miftaakhulanam" /></p>
 
-< img align = "center" src = " https://github.com/fachridantm/miftaakhulanam/blob/output/github-contribution-grid-snake-dark.svg " alt = "Ular">
+< img align = "center" src = " https://github.com/miftaakhulanam/miftaakhulanam/blob/output/github-contribution-grid-snake-dark.svg " alt = "Ular">
