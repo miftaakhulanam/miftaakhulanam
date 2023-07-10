@@ -31,4 +31,4 @@
 | <img width="666px" src="https://github-readme-streak-stats.herokuapp.com/?user=miftaakhulanam&hide_border=true&theme=transparent">
 | ------------- |
 
-![snake gif](https://github.com/miftaakhulanam/miftaakhulanam/blob/output/github-contribution-grid-snake.gif)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
