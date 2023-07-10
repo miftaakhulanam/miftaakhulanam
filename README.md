@@ -25,7 +25,7 @@
 
 <h3 align="left">Github Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> </h3>
   
-| <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=miftaakhulanam&theme=transparent&rank_icon=github&hide_border=true"> | <img align="center" width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftaakhulanam&layout=compact&theme=transparent&hide_border=true">
+| <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=miftaakhulanam&theme=transparent&rank_icon=github&hide_border=true"> | <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftaakhulanam&layout=compact&theme=transparent&hide_border=true">
 | ------------- | ------------- |  
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=miftaakhulanam&hide_border=true&theme=transparent">
