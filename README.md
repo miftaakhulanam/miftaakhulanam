@@ -25,7 +25,7 @@
 
 ## 📈 Github Stats
   
-| <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=miftaakhulanam&theme=transparent&rank_icon=github&hide_border=true"> | <img align="center" width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftaakhulanam">
+| <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=miftaakhulanam&theme=transparent&rank_icon=github&hide_border=true"> | <img align="center" width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftaakhulanam&hide_progress=true">
 | ------------- | ------------- |  
 
 | <img width="640px" src="https://github-readme-streak-stats.herokuapp.com/?user=miftaakhulanam&hide_border=true&theme=transparent">
