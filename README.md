@@ -28,7 +28,7 @@
 | <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api?username=miftaakhulanam&theme=transparent&rank_icon=github&hide_border=true"> | <img align="center" width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miftaakhulanam&layout=compact&theme=transparent&hide_border=true">
 | ------------- | ------------- |  
 
-| <img width="660px" src="https://github-readme-streak-stats.herokuapp.com/?user=miftaakhulanam&hide_border=true&theme=transparent">
+| <img width="664px" src="https://github-readme-streak-stats.herokuapp.com/?user=miftaakhulanam&hide_border=true&theme=transparent">
 | ------------- |
 
 <img src="https://github.com/{{miftaakhulanam}}/{{miftaakhulanam}}/blob/output/github-contribution-grid-snake.svg" >
