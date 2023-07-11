@@ -16,7 +16,7 @@
 <a href="https://www.facebook.com/miftakhul.anam.9400?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="miftakhul anam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@MiftakhulAnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miftakhul anam" height="40" width="50" /></a>
 <a href="https://instagram.com/miftaakhul_anam?igshid=ZDdkNTZiNTM=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miftakhul anam" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/R6zHw3Xr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/R6zHw3Xr" height="40" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/R6zHw3Xr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/R6zHw3Xr" height="40" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
