@@ -47,4 +47,4 @@ jobs:
           build_dir: dist
           commit_message: Update snake animations
         env:
-          PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
