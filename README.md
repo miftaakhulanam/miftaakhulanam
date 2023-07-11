@@ -32,4 +32,4 @@
 | ------------- |
 
 <h3 align="left">My Contributions:</h3>
-<img src="https://github.com/miftaakhulanam/miftaakhulanam/blob/output/github-contribution-grid-snake2.svg">
+![snake animation](https://github.com/<miftaakhulanam>/<miftaakhulanam>/blob/output/github-contribution-grid-snake2.svg)
