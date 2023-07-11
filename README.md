@@ -32,4 +32,4 @@
 | ------------- |
 
 <h3 align="left">My Contributions:</h3>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/miftaakhulanam/miftaakhulanam/output/github-contribution-grid-snake.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/miftaakhulanam/miftaakhulanam/output/github-contribution-grid-snake.gif" />
