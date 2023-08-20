@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/miftaakhul_anam?t=poQyapadudcArhQHutW1PQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/miftakhul anam?logo=twitter&style=for-the-badge" alt="miftakhul anam" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Laravel**
 
 - 📫 How to reach me **miftakhulanam014@gmail.com**
 
